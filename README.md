@@ -65,3 +65,8 @@ python -m streamlit run frontend/streamlit_app.py
 
 > 해당 디자인을 기반으로 Streamlit UI를 구현하여,  
 > 기능과 사용자 경험을 함께 고려한 AI 서비스 형태로 완성했습니다.
+
+## Design
+Figma Design: https://flap-scope-84657186.figma.site
+
+
